@@ -1,4 +1,5 @@
 file_wich_will_be_ignored.md
-*.sys
 Build/
-
+*.log
+*.sys
+users/
