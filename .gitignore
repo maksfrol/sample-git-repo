@@ -2,3 +2,6 @@ file_wich_will_be_ignored.md
 Build/
 *.sys
 users/
+.DS_Store
+.vscode
+/node_modules
